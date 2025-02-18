@@ -5,80 +5,84 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
 
 
 
-
-
-
-
-
-
 <table>
   <tr>
     <th>No</th>
     <th>Site</th>
     <th>URL</th>
-    <th><table border="1">
-    <tr>
-        <th>Login</th>
-    </tr>
-    <tr>
-        <td>Yes</td>
-    </tr>
-    <tr>
-        <td>No</td>
-    </tr>
-</table></th>
-    <th></th>
+    <th>Requires Login (Yes/No)</th>
+    <th>Books Download site</th>
+    <th>Type (Site/Group)</th>
+    <th>Status (Online/Offline)</th>
     <th>Summery</th>
+  </tr>
+    <tr>
+    <th>1</th>
+    <th>annas-archiv</th>
+    <th>https://annas-archive.org</th>
+    <th>inequality</th>
+    <th>sasasasa</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+  </tr>
+    <th>2</th>
+    <th>libgen.mx</th>
+    <th>https://libgen.mx</th>
+    <th>Yes</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
   </tr>
   <tr>
     <th>-</th>
     <th>-</th>
-    <th>Books site</th>
+    <th>Magazine Download site</th>
+    <th>-</th>
+    <th>-</th>
     <th>-</th>
     <th>-</th>
     <th>-</th>
   </tr>
     <tr>
     <th>1</th>
-    <th>annas-archiv</th>
-    <th>[annas-archive](https://annas-archive.org/)</th>
-    <th>inequality</th>
-    <th>sasasasa</th>
+    <th>magzdb.org</th>
+    <th>http://magzdb.org/</th>
+    <th>No</th>
+    <th>Site</th>
+    <th>-</th>
+    <th>-</th>
     <th>-</th>
   </tr>
-  
-  
+  <tr>
+    <th>-</th>
+    <th>-</th>
+    <th>Game_library</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+  </tr>
     <tr>
-    <th>1asasasa</th>
-    <th>sasasa</th>
-    <th>sasas</th>
-    <th>inequality</th>
-    <th>sasasasa</th>
+    <th>1</th>
+    <th>raylib</th>
+    <th>https://www.raylib.com</th>
     <th>-</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+  </tr> 
+    <tr>
+    <th>sample</th>
+    <th>sample</th>
+    <th>sample</th>
+    <th>sample</th>
+    <th>sample</th>
+    <th>sample</th>
+    <th>sample</th>
+    <th>sample</th>
   </tr>
-  
 </table>
-
-
-
-
-
-
-
-**`:`**
-
-!
-
-[annas-archive](https://annas-archive.org/)
-
-
-**`Magazine site:`**
-
-
-
-
-
-
-**`game library:`**
-
-![raylib](https://www.raylib.com)
