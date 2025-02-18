@@ -11,18 +11,25 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>Site</th>
     <th>URL</th>
     <th>Requires Login (Yes/No)</th>
-    <th>Books Download site</th>
     <th>Type (Site/Group)</th>
     <th>Status (Online/Offline)</th>
     <th>Summery</th>
+  <tr>
+    <th>-</th>
+    <th>-</th>
+    <th>Books Download site</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+  </tr>
   </tr>
     <tr>
     <th>1</th>
     <th>annas-archiv</th>
     <th>https://annas-archive.org</th>
-    <th>inequality</th>
-    <th>sasasasa</th>
-    <th>-</th>
+    <th>No</th>
+    <th>Site</th>
     <th>-</th>
     <th>-</th>
   </tr>
@@ -30,16 +37,15 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>libgen.mx</th>
     <th>https://libgen.mx</th>
     <th>Yes</th>
+    <th>Site</th>
     <th>-</th>
     <th>-</th>
-    <th>-</th>
-    <th>-</th>
+
   </tr>
   <tr>
     <th>-</th>
     <th>-</th>
     <th>Magazine Download site</th>
-    <th>-</th>
     <th>-</th>
     <th>-</th>
     <th>-</th>
@@ -53,13 +59,20 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>Site</th>
     <th>-</th>
     <th>-</th>
+  </tr>
+    <tr>
+    <th>2</th>
+    <th>jio</th>
+    <th>https://jionews.com/magazine/</th>
+    <th>Yes</th>
+    <th>Site</th>
+    <th>-</th>
     <th>-</th>
   </tr>
   <tr>
     <th>-</th>
     <th>-</th>
     <th>Game_library</th>
-    <th>-</th>
     <th>-</th>
     <th>-</th>
     <th>-</th>
@@ -73,10 +86,8 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>-</th>
     <th>-</th>
     <th>-</th>
-    <th>-</th>
   </tr> 
     <tr>
-    <th>sample</th>
     <th>sample</th>
     <th>sample</th>
     <th>sample</th>
