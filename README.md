@@ -30,7 +30,7 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>https://annas-archive.org</th>
     <th>No</th>
     <th>Site</th>
-    <th>-</th>
+    <th>Online</th>
     <th>-</th>
   </tr>
     <th>2</th>
@@ -38,7 +38,7 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>https://libgen.mx</th>
     <th>Yes</th>
     <th>Site</th>
-    <th>-</th>
+    <th>Online</th>
     <th>-</th>
 
   </tr>
@@ -57,7 +57,7 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>http://magzdb.org/</th>
     <th>No</th>
     <th>Site</th>
-    <th>-</th>
+    <th>Online</th>
     <th>-</th>
   </tr>
     <tr>
@@ -66,26 +66,9 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>https://jionews.com/magazine/</th>
     <th>Yes</th>
     <th>Site</th>
-    <th>-</th>
-    <th>-</th>
-  </tr>
-  <tr>
-    <th>-</th>
-    <th>-</th>
-    <th>Game_library</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
+    <th>Online</th>
     <th>-</th>
   </tr>
-    <tr>
-    <th>1</th>
-    <th>raylib</th>
-    <th>https://www.raylib.com</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
-    <th>-</th>
   </tr> 
     <tr>
     <th>sample</th>
@@ -97,3 +80,17 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>sample</th>
   </tr>
 </table>
+
+
+
+
+**Game_library**
+
+https://www.raylib.com
+
+
+
+
+
+
+
