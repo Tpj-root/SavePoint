@@ -14,6 +14,7 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>Type (Site/Group)</th>
     <th>Status (Online/Offline)</th>
     <th>Summery</th>
+  </tr>
   <tr>
     <th>-</th>
     <th>-</th>
@@ -23,8 +24,7 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>-</th>
     <th>-</th>
   </tr>
-  </tr>
-    <tr>
+  <tr>
     <th>1</th>
     <th>annas-archiv</th>
     <th>https://annas-archive.org</th>
@@ -40,7 +40,6 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>Site</th>
     <th>Online</th>
     <th>-</th>
-
   </tr>
   <tr>
     <th>-</th>
@@ -51,16 +50,16 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>-</th>
     <th>-</th>
   </tr>
-    <tr>
+  <tr>
     <th>1</th>
     <th>magzdb.org</th>
-    <th>http://magzdb.org/</th>
+    <th>http://magzdb.org/j/3181</th>
     <th>No</th>
     <th>Site</th>
     <th>Online</th>
     <th>-</th>
   </tr>
-    <tr>
+  <tr>
     <th>2</th>
     <th>jio</th>
     <th>https://jionews.com/magazine/</th>
@@ -68,9 +67,8 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>Site</th>
     <th>Online</th>
     <th>-</th>
-  </tr>
   </tr> 
-    <tr>
+  <tr>
     <th>sample</th>
     <th>sample</th>
     <th>sample</th>
@@ -81,6 +79,8 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
   </tr>
 </table>
 
+
+http://www.electronicsandbooks.com/edt/manual/index.php
 
 
 
