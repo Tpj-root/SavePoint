@@ -18,6 +18,24 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
   <tr>
     <th>-</th>
     <th>-</th>
+    <th>scientific journal</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+    <th>-</th>
+  </tr>
+  <tr>
+    <th>1</th>
+    <th>sci-hub</th>
+    <th>https://sci-hub.se/</th>
+    <th>No</th>
+    <th>Site</th>
+    <th>Online</th>
+    <th>https://en.wikipedia.org/wiki/Sci-Hub</th>
+  </tr>
+  <tr>
+    <th>-</th>
+    <th>-</th>
     <th>Books Download site</th>
     <th>-</th>
     <th>-</th>
@@ -87,6 +105,13 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>sample</th>
   </tr>
 </table>
+
+
+
+
+
+
+
 
 
 **Game_library**
