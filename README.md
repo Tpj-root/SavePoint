@@ -69,6 +69,15 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>-</th>
   </tr> 
   <tr>
+    <th>3</th>
+    <th>electronicsandbooks</th>
+    <th>http://www.electronicsandbooks.com/edt/manual/index.php?dir=Magazine%2F</th>
+    <th>Yes</th>
+    <th>Site</th>
+    <th>Online</th>
+    <th>old books and magaz</th>
+  </tr> 
+  <tr>
     <th>sample</th>
     <th>sample</th>
     <th>sample</th>
@@ -78,10 +87,6 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>sample</th>
   </tr>
 </table>
-
-
-http://www.electronicsandbooks.com/edt/manual/index.php
-
 
 
 **Game_library**
