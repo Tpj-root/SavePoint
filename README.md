@@ -59,6 +59,24 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
     <th>Online</th>
     <th>-</th>
   </tr>
+  </tr>
+    <th>3</th>
+    <th>libgen.mx</th>
+    <th>https://libgen.vg/</th>
+    <th>Yes</th>
+    <th>Site</th>
+    <th>Online</th>
+    <th>search_engine</th>
+  </tr>
+  </tr>
+    <th>4</th>
+    <th>libgen.mx</th>
+    <th>https://libgen.gs/</th>
+    <th>Yes</th>
+    <th>Site</th>
+    <th>Online</th>
+    <th>search_engine</th>
+  </tr>
   <tr>
     <th>-</th>
     <th>-</th>
@@ -112,6 +130,12 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
 
 
 
+**Status_check**
+
+https://libgen.onl
+
+https://libgen.li
+
 
 
 **Game_library**
@@ -119,6 +143,14 @@ SavePoint is like a sticky note for the internet—saving you from endless Googl
 https://www.raylib.com
 
 
+
+**Ex**
+
+Selenium automates browsers
+
+```
+https://www.selenium.dev/
+```
 
 
 
