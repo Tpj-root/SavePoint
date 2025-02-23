@@ -1,3 +1,4 @@
+
 # SavePoint
 SavePoint is like a sticky note for the internet—saving you from endless Googling and bad memory!
 
@@ -154,5 +155,37 @@ https://www.selenium.dev/
 
 
 
+
+**Modern C++ *
+
+
+- JSON
+
+https://github.com/nlohmann/json.git
+https://github.com/Tencent/rapidjson
+
+
+sudo apt install nlohmann-json3-dev
+sudo apt install rapidjson-dev
+
+
+
+- XML
+
+https://github.com/leethomason/tinyxml2
+
+sudo apt install libpugixml-dev
+sudo apt install libtinyxml2-dev
+
+
+
+
+
+MySQL Connector/C++ + nlohmann/json 
+sudo apt install libmysqlcppconn-dev nlohmann-json3-dev
+
+
+SOCI (SQL Database Access Library)
+sudo apt install libmysqlclient-dev libboost-dev
 
 
